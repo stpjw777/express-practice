@@ -1,0 +1,11 @@
+{
+  "name": "express-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://stpjw777@github.com/stpjw777/express-practice.git",
+  "author": "jaewan <stpjw777@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
